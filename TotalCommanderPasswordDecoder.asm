@@ -2,7 +2,7 @@
 ;//
 ;// Total Commander FTP Password Recovery Algorithm
 ;//
-;// Bartosz Wójcik
+;// Bartosz WÃ³jcik
 ;//
 ;// https://www.pelock.com/products/total-commander-ftp-password-recovery
 ;//
