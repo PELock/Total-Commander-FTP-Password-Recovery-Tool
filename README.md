@@ -22,3 +22,9 @@ I give you source codes for both the original assembly decoding algorithm and a 
 You can either use one of the provided source codes or use my own online implementation to make things faster:
 
 https://www.pelock.com/products/total-commander-ftp-password-recovery
+
+Bartosz Wójcik
+
+* Visit my site at — https://www.pelock.com
+* Twitter — https://twitter.com/PELock
+* GitHub — https://github.com/PELock
